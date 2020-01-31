@@ -1,7 +1,7 @@
-#***************************************************************************
-#Totorial to create an image with Ubuntu, Closure compiler, python and java 
+#*********************************************************************************
+#Totorial to create a Docker image with Ubuntu, Closure compiler, python and java 
 #and push it to your own repository in DockerHub
-#***************************************************************************
+#*********************************************************************************
 
 #Step 1
 #Download the official Ubuntu image from Docker hub
