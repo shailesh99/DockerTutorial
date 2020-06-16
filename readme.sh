@@ -3,6 +3,8 @@
 #and push it to your own repository in DockerHub
 #*********************************************************************************
 
+#This tutorial assumes you have downloaded and installed Docker Engine on your machine.
+
 #Step 1
 #Download the official Ubuntu image from Docker hub
 docker image pull ubuntu
